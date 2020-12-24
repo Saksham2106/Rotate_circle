@@ -1,4 +1,3 @@
-Send to: Paramjit.Jolly@thalesgroup.com
 
 
 1. When we will tilt the circle, circle will appear as an ellipse.
